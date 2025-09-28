@@ -83,7 +83,7 @@ php artisan queue:work
 - **Backend**: Laravel 12 (PHP 8.2+)
 - **Frontend**: Livewire 3 + Blade Templates
 - **Styling**: Tailwind CSS 4
-- **Database**: SQLite (default), mendukung MySQL/PostgreSQL
+- **Database**: PostgreSQL (default), mendukung MySQL/SQLite
 - **Build Tool**: Vite
 - **Queue**: Database driver (default)
 
